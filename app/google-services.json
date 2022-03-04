@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "384113895539",
+    "project_id": "mlkit-74a62",
+    "storage_bucket": "mlkit-74a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384113895539:android:b02ff0cb5e6f06f75ae206",
+        "android_client_info": {
+          "package_name": "com.devapp.mlfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384113895539-o2g3j7746mhgq7gs3l3eb71ao6l874am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaiIFgUlF12cq0_4YMaQgTjQEMzosgxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384113895539-o2g3j7746mhgq7gs3l3eb71ao6l874am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384113895539:android:58dc1f4e7f2b5d3f5ae206",
+        "android_client_info": {
+          "package_name": "com.example.notificationwithfirebasemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384113895539-o2g3j7746mhgq7gs3l3eb71ao6l874am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaiIFgUlF12cq0_4YMaQgTjQEMzosgxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384113895539-o2g3j7746mhgq7gs3l3eb71ao6l874am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
